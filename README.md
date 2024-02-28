@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **CodeByTricia/CodeByTricia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Tricia Anne Manalad!
+
+## 🌱 I’m currently learning ...
+**City of Malabon University**
+- CC105 Information Management 1
+- NET101 Networking 1
+- PF102 Event Driven Programming
+
+**freecodecamp**
+- Responsive Web Design
+
+
