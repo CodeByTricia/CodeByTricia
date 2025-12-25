@@ -15,15 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Tricia Anne Manalad!
+I'm Tricia Anne Manalad, a graduating student from City of Malabon University.
 
 ## 🌱 I’m currently learning ...
-**City of Malabon University**
-- CC105 Information Management 1
-- NET101 Networking 1
-- PF102 Event Driven Programming
-
-**freecodecamp**
-- Responsive Web Design
+- Responsive Web Design (freecodecamp)
 
 
