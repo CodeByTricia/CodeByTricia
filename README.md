@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 I'm Tricia Anne Manalad, a graduating student from City of Malabon University.
 
 ## 🌱 I’m currently learning ...
-- Responsive Web Design (freecodecamp)
+- JavaScript
 
 
