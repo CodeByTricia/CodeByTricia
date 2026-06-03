@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Tricia Anne Manalad, a graduating student from City of Malabon University.
+I'm Tricia Manalad, a graduating student from City of Malabon University.
 
 ## 🌱 I’m currently learning ...
 - The Frontend Developer Path from Scrimba
